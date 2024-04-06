@@ -1,0 +1,17 @@
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\source.exe
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\source.deps.json
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\source.runtimeconfig.json
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\source.dll
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\source.pdb
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.csproj.CopyComplete
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.dll
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\refint\source.dll
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.pdb
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\source.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\obj\Release\net6.0\ref\source.dll

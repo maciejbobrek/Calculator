@@ -1,0 +1,6 @@
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\publish\source.exe
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\publish\source.dll
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\publish\source.deps.json
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\publish\source.runtimeconfig.json
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\publish\source.pdb
+C:\Users\Maciek\Desktop\Projekty Github\Kalkulator\swi\source\bin\Release\net6.0\publish\Newtonsoft.Json.dll
