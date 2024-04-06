@@ -14,9 +14,29 @@
         "value1": 16,
         "value2": 14
     },
-    "obj1": {
+    "obj5": {
         "operator": "sub",
         "value1": 16,
         "value2": 3
+    },
+    "obj7": {
+        "operator": "add",
+        "value1": 16,
+        "value2": 20
+    },
+    "obj12": {
+        "operator": "mul",
+        "value1": 120,
+        "value2": 30
+    },
+    "obj15": {
+        "operator": "mul",
+        "value1": 150,
+        "value2": 10
+    },
+    "obj13": {
+        "operator": "mul",
+        "value1": 130,
+        "value2": 30
     }
 }
